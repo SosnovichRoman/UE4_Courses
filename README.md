@@ -1,5 +1,6 @@
 # Dwarf Shooter
 Созданно на основе курсов devToDev
+https://www.devtodev.com/education/online-course/games-on-unreal-engine
 ____
 ## 1. Главное меню
 Реализованы две кнопки:
@@ -39,3 +40,5 @@ ____
 
 <p align="center">
 <img src="/img/Sparks.gif" width="80%" /></p>
+
+## Future Scope
