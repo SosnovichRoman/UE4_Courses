@@ -1,5 +1,5 @@
 # Dwarf Shooter
-Созданно на основе курсов devToDev
+Созданно на основе курсов DevToDev
 
 https://www.devtodev.com/education/online-course/games-on-unreal-engine
 ____
