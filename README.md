@@ -41,6 +41,3 @@ ____
 
 <p align="center">
 <img src="/img/Sparks.gif" width="80%" /></p>
-
-## Future Scope
-В будущем планируется качественное улучшение игрового процесса.
